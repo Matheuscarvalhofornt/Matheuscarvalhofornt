@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Carvalho
 
-💻 **Desenvolvedor Full Stack | Banco do Brasil**
+💻 Desenvolvedor Full Stack | Java • Spring Boot • Angular • React
 
 Atuo no desenvolvimento de aplicações web e soluções corporativas no **Banco do Brasil**, com experiência em **Front-end, Back-end, integração de APIs REST, testes de software e acessibilidade digital**, sempre aplicando boas práticas de desenvolvimento e buscando criar soluções eficientes, seguras e com uma boa experiência para o usuário.
 
